@@ -20,10 +20,12 @@ In this work,  we propose a novel effective approach to address the blur detecti
 
 
 ```
-@article{golestaneh2017spatially,
+@inproceedings{golestaneh2017spatially,
   title={Spatially-Varying Blur Detection Based on Multiscale Fused and Sorted Transform Coefficients of Gradient Magnitudes},
   author={Golestaneh, S Alireza and Karam, Lina J},
-  journal={arXiv preprint arXiv:1703.07478},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2017}
 }
 ```
+
+
